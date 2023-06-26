@@ -1,0 +1,134 @@
+.trending-collection {
+  align-items: center;
+  background-color: #2b2b2b;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.trending-collection .section-headline {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.trending-collection .heading {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.trending-collection .text-wrapper-2 {
+  color: #ffffff;
+  flex: 1;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.trending-collection .subhead {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.trending-collection .checkout-our-weekly {
+  color: #ffffff;
+  flex: 1;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+}
+
+.trending-collection .collection-card-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 30px;
+  overflow-x: scroll;
+  position: relative;
+}
+
+.trending-collection.screen-1-desktop {
+  gap: 60px;
+  padding: 80px 0px;
+  width: 1440px;
+}
+
+.trending-collection.screen-1-tablet {
+  gap: 40px;
+  padding: 40px 0px;
+  width: 834px;
+}
+
+.trending-collection.screen-1-mobile {
+  gap: 40px;
+  padding: 40px 0px;
+  width: 375px;
+}
+
+.trending-collection.screen-1-desktop .section-headline {
+  width: 1046px;
+}
+
+.trending-collection.screen-1-tablet .section-headline {
+  width: 690px;
+}
+
+.trending-collection.screen-1-mobile .section-headline {
+  width: 315px;
+}
+
+.trending-collection.screen-1-desktop .text-wrapper-2 {
+  font-size: 38px;
+  line-height: 45.6px;
+}
+
+.trending-collection.screen-1-tablet .text-wrapper-2 {
+  font-size: 28px;
+  line-height: 39.2px;
+}
+
+.trending-collection.screen-1-mobile .text-wrapper-2 {
+  font-size: 28px;
+  line-height: 39.2px;
+}
+
+.trending-collection.screen-1-desktop .checkout-our-weekly {
+  font-size: 22px;
+  line-height: 35.2px;
+  white-space: nowrap;
+}
+
+.trending-collection.screen-1-tablet .checkout-our-weekly {
+  font-size: 16px;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.trending-collection.screen-1-mobile .checkout-our-weekly {
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.trending-collection.screen-1-desktop .collection-card-row {
+  width: 1050px;
+}
+
+.trending-collection.screen-1-tablet .collection-card-row {
+  width: 690px;
+}
+
+.trending-collection.screen-1-mobile .collection-card-row {
+  width: 315px;
+}

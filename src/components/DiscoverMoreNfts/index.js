@@ -1,0 +1,1 @@
+export { DiscoverMoreNfts } from "./DiscoverMoreNfts";

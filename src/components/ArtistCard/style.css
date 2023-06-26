@@ -1,0 +1,221 @@
+.artist-card {
+  background-color: #3b3b3b;
+  border-radius: 20px;
+  display: flex;
+  padding: 20px;
+  position: relative;
+}
+
+.artist-card .artist-avatar {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: fit-content;
+}
+
+.artist-card .artist-info {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  position: relative;
+}
+
+.artist-card .dish-studio {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.artist-card .additional-info-3 {
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.artist-card .total-sales {
+  color: #858584;
+  flex: 1;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.artist-card .element-USD {
+  color: #ffffff;
+  flex: 1;
+  font-family: "Space Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.artist-card .ranking-number {
+  background-color: #2b2b2b;
+  border-radius: 20px;
+  height: 30px;
+  position: absolute;
+  width: 30px;
+}
+
+.artist-card .element-7 {
+  color: #858584;
+  font-family: "Space Mono", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 22px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.artist-card .dish-studio-2 {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.artist-card.horizontal-medium {
+  align-items: center;
+  gap: 12px;
+  transition: all 0.3s ease;
+  width: fit-content;
+}
+
+.artist-card.default {
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  transition: all 0.3s ease;
+  width: 240px;
+}
+
+.artist-card.horizontal-small {
+  align-items: center;
+  gap: 12px;
+  width: fit-content;
+}
+
+.artist-card.horizontal-big {
+  align-items: flex-start;
+  gap: 20px;
+  justify-content: center;
+  transition: all 0.3s ease;
+  width: 315px;
+}
+
+.artist-card.horizontal-medium .artist-info {
+  align-items: center;
+}
+
+.artist-card.default .artist-info {
+  align-items: center;
+  align-self: stretch;
+}
+
+.artist-card.horizontal-small .artist-info {
+  align-items: center;
+}
+
+.artist-card.horizontal-big .artist-info {
+  align-items: flex-start;
+  flex: 1;
+}
+
+.artist-card.default .dish-studio {
+  text-align: center;
+}
+
+.artist-card.horizontal-medium .additional-info-3 {
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.artist-card.default .additional-info-3 {
+  align-items: flex-start;
+  gap: 10px;
+  justify-content: center;
+}
+
+.artist-card.horizontal-small .additional-info-3 {
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.artist-card.horizontal-big .additional-info-3 {
+  align-items: center;
+  gap: 5px;
+}
+
+.artist-card.default .total-sales {
+  text-align: right;
+}
+
+.artist-card.horizontal-medium .ranking-number {
+  left: 20px;
+  top: 18px;
+}
+
+.artist-card.default .ranking-number {
+  left: 20px;
+  top: 18px;
+}
+
+.artist-card.horizontal-small .ranking-number {
+  left: 20px;
+  top: 18px;
+}
+
+.artist-card.horizontal-big .ranking-number {
+  left: 12px;
+  top: 13px;
+}
+
+.artist-card.horizontal-medium .dish-studio-2 {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30.8px;
+  margin-top: -1px;
+}
+
+.artist-card.default .dish-studio-2 {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30.8px;
+}
+
+.artist-card.horizontal-small .dish-studio-2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22.4px;
+}
+
+.artist-card.horizontal-big .dish-studio-2 {
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 30.8px;
+}

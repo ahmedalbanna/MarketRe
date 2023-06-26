@@ -1,0 +1,511 @@
+.hero-section {
+  align-items: center;
+  background-color: #2b2b2b;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  position: relative;
+}
+
+.hero-section .hero-section-frame {
+  display: flex;
+  gap: 30px;
+  position: relative;
+}
+
+.hero-section .hero-text-buttons {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.hero-section .headline-subhead {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.hero-section .discover-mobile {
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+}
+
+.hero-section .bee-marketplace-UI {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  position: relative;
+}
+
+.hero-section .additional-info {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 20px;
+  display: flex;
+  gap: 30px;
+  position: relative;
+}
+
+.hero-section .total-sale {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.hero-section .element {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .total-sale-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .auctions {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.hero-section .element-k {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .games {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .artists {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.hero-section .element-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .packages {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .highlighted-NFT {
+  background-image: url(https://cdn.animaapp.com/projects/6357ce7c8a65b2f16659918c/files/heroanimationtransparentbck-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.hero-section .hero-text-buttons-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  position: relative;
+}
+
+.hero-section .headline-subhead-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.hero-section .p {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 39.2px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.hero-section .bee-marketplace-UI-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.hero-section .highlighted-NFT-2 {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/6357ce7c8a65b2f16659918c/files/heroanimationtransparentbck-2.gif);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: 315px;
+  position: relative;
+}
+
+.hero-section .additional-info-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 20px;
+  display: flex;
+  gap: 30px;
+  position: relative;
+}
+
+.hero-section .total-sale-3 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.hero-section .element-3 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .total-sale-4 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .auctions-2 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.hero-section .element-4 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .games-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .artists-2 {
+  align-items: flex-start;
+  border-radius: 20px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  position: relative;
+}
+
+.hero-section .element-5 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section .packages-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.hero-section.mobile {
+  padding: 40px 0px;
+  width: 375px;
+}
+
+.hero-section.tablet {
+  padding: 80px 0px;
+  width: 834px;
+}
+
+.hero-section.dekstop {
+  padding: 80px 195px;
+  width: fit-content;
+}
+
+.hero-section.mobile .hero-section-frame {
+  align-items: flex-start;
+  flex-direction: column;
+  width: 315px;
+}
+
+.hero-section.tablet .hero-section-frame {
+  align-items: flex-start;
+  width: 690px;
+}
+
+.hero-section.dekstop .hero-section-frame {
+  align-items: center;
+  width: 1050px;
+}
+
+.hero-section.mobile .hero-text-buttons {
+  gap: 40px;
+}
+
+.hero-section.tablet .hero-text-buttons {
+  gap: 20px;
+  width: 330px;
+}
+
+.hero-section.dekstop .hero-text-buttons {
+  flex: 1;
+  gap: 40px;
+}
+
+.hero-section.dekstop .headline-subhead {
+  height: 347px;
+}
+
+.hero-section.mobile .discover-mobile {
+  font-size: 67px;
+  line-height: 73.7px;
+  width: 510px;
+}
+
+.hero-section.tablet .discover-mobile {
+  font-size: 38px;
+  line-height: 45.6px;
+  width: 330px;
+}
+
+.hero-section.dekstop .discover-mobile {
+  flex: 1;
+  font-size: 67px;
+  line-height: 73.7px;
+  width: 510px;
+}
+
+.hero-section.mobile .bee-marketplace-UI {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.hero-section.tablet .bee-marketplace-UI {
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.hero-section.dekstop .bee-marketplace-UI {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.hero-section.mobile .element {
+  font-size: 28px;
+  line-height: 39.2px;
+}
+
+.hero-section.tablet .element {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.hero-section.dekstop .element {
+  flex: 1;
+  font-size: 28px;
+  line-height: 39.2px;
+}
+
+.hero-section.mobile .total-sale-2 {
+  font-size: 24px;
+  line-height: 38.4px;
+}
+
+.hero-section.tablet .total-sale-2 {
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.hero-section.dekstop .total-sale-2 {
+  font-size: 24px;
+  line-height: 38.4px;
+}
+
+.hero-section.mobile .element-k {
+  font-size: 28px;
+  line-height: 39.2px;
+}
+
+.hero-section.tablet .element-k {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.hero-section.dekstop .element-k {
+  font-size: 28px;
+  line-height: 39.2px;
+}
+
+.hero-section.mobile .games {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.hero-section.tablet .games {
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.hero-section.dekstop .games {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.hero-section.mobile .element-2 {
+  font-size: 28px;
+  line-height: 39.2px;
+}
+
+.hero-section.tablet .element-2 {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.hero-section.dekstop .element-2 {
+  font-size: 28px;
+  line-height: 39.2px;
+}
+
+.hero-section.mobile .packages {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.hero-section.tablet .packages {
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.hero-section.dekstop .packages {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.hero-section.mobile .highlighted-NFT {
+  align-items: flex-start;
+  height: 510px;
+}
+
+.hero-section.tablet .highlighted-NFT {
+  align-items: center;
+  flex: 1;
+  height: 330px;
+}
+
+.hero-section.dekstop .highlighted-NFT {
+  align-items: flex-start;
+  height: 510px;
+  width: 510px;
+}

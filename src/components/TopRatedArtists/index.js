@@ -1,0 +1,1 @@
+export { TopRatedArtists } from "./TopRatedArtists";

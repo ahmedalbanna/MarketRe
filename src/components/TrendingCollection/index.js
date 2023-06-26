@@ -1,0 +1,1 @@
+export { TrendingCollection } from "./TrendingCollection";

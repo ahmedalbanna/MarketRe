@@ -1,0 +1,208 @@
+.NFT-card {
+  align-items: center;
+  background-color: #3b3b3b;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.NFT-card .image {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 20px 20px 0px 0px;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.NFT-card .image-placeholder {
+  align-self: stretch;
+  background-color: #c4c4c4;
+  border-radius: 20px 20px 0px 0px;
+  flex: 1;
+  position: relative;
+}
+
+.NFT-card .NFT-info {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  position: relative;
+}
+
+.NFT-card .artst-info {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.NFT-card .NFT-name {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-card .artist-avatar-name {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 12px;
+  position: relative;
+}
+
+.NFT-card .additional-info-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  position: relative;
+}
+
+.NFT-card .price {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 21px 0px 0px;
+  position: relative;
+}
+
+.NFT-card .price-2 {
+  align-self: stretch;
+  color: #858584;
+  font-family: "Space Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-card .element-USD-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-card .highest-bid {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: center;
+  position: relative;
+}
+
+.NFT-card .PACKAGE {
+  align-self: stretch;
+  color: #858584;
+  font-family: "Space Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  margin-top: -1px;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.NFT-card .element-COINS {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  position: relative;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.NFT-card.property-1-5-default {
+  height: 468px;
+  width: 330px;
+}
+
+.NFT-card.property-1-5-small {
+  height: 402px;
+  width: 238px;
+}
+
+.NFT-card.property-1-5-default .image-placeholder {
+  height: 295px;
+  min-width: 330px;
+}
+
+.NFT-card.property-1-5-small .image-placeholder {
+  height: 240px;
+  min-width: 238px;
+}
+
+.NFT-card.property-1-5-default .NFT-info {
+  padding: 20px 30px 25px;
+}
+
+.NFT-card.property-1-5-small .NFT-info {
+  padding: 20px 20px 25px;
+}
+
+.NFT-card.property-1-5-small .price {
+  height: 34px;
+}
+
+.NFT-card.property-1-5-small .price-2 {
+  flex: 1;
+}
+
+.NFT-card.property-1-5-default .element-USD-2 {
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.NFT-card.property-1-5-small .element-USD-2 {
+  flex: 1;
+  font-size: 12px;
+  line-height: 13.2px;
+}
+
+.NFT-card.property-1-5-small .highest-bid {
+  height: 34px;
+}
+
+.NFT-card.property-1-5-small .PACKAGE {
+  flex: 1;
+}
+
+.NFT-card.property-1-5-default .element-COINS {
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.NFT-card.property-1-5-small .element-COINS {
+  flex: 1;
+  font-size: 12px;
+  line-height: 13.2px;
+}

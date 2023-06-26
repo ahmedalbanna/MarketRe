@@ -1,0 +1,204 @@
+.discover-more-nfts {
+  background-color: #2b2b2b;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.discover-more-nfts .section-headline-5 {
+  align-items: flex-end;
+  display: flex;
+  gap: 100px;
+  position: relative;
+}
+
+.discover-more-nfts .section-headline-6 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.discover-more-nfts .discover-more-bee {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.discover-more-nfts .explore-new-trending {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.discover-more-nfts .NFT-cards-row {
+  align-items: flex-start;
+  display: flex;
+  gap: 30px;
+  position: relative;
+}
+
+.discover-more-nfts .section-headline-7 {
+  align-items: flex-start;
+  display: flex;
+  gap: 100px;
+  position: relative;
+  width: 315px;
+}
+
+.discover-more-nfts .section-headline-8 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.discover-more-nfts .discover-more-bee-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 39.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.discover-more-nfts .explore-new-trending-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.discover-more-nfts .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.discover-more-nfts .NFT-card-wrapper {
+  align-items: flex-start;
+  display: flex;
+  gap: 30px;
+  position: relative;
+  width: 315px;
+}
+
+.discover-more-nfts .NFT-card-instance-wrapper {
+  align-items: flex-start;
+  display: flex;
+  gap: 30px;
+  position: relative;
+  width: 315px;
+}
+
+.discover-more-nfts .NFT-cards-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 30px;
+  position: relative;
+  width: 315px;
+}
+
+.discover-more-nfts .button-instance-wrapper {
+  align-items: flex-end;
+  display: flex;
+  gap: 100px;
+  position: relative;
+  width: 315px;
+}
+
+.discover-more-nfts.screen-20-desktop {
+  align-items: flex-start;
+  gap: 60px;
+  padding: 80px 195px;
+  width: 1440px;
+}
+
+.discover-more-nfts.screen-20-tablet {
+  align-items: center;
+  gap: 40px;
+  padding: 40px 195px 80px;
+  width: 834px;
+}
+
+.discover-more-nfts.screen-20-mobile {
+  align-items: center;
+  gap: 40px;
+  padding: 40px 0px 60px;
+  width: 375px;
+}
+
+.discover-more-nfts.screen-20-desktop .section-headline-5 {
+  align-self: stretch;
+}
+
+.discover-more-nfts.screen-20-tablet .section-headline-5 {
+  margin-left: -123px;
+  margin-right: -123px;
+  width: 690px;
+}
+
+.discover-more-nfts.screen-20-desktop .discover-more-bee {
+  font-size: 38px;
+  line-height: 45.6px;
+}
+
+.discover-more-nfts.screen-20-tablet .discover-more-bee {
+  font-size: 28px;
+  line-height: 39.2px;
+}
+
+.discover-more-nfts.screen-20-mobile .discover-more-bee {
+  font-size: 38px;
+  line-height: 45.6px;
+}
+
+.discover-more-nfts.screen-20-desktop .explore-new-trending {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.discover-more-nfts.screen-20-tablet .explore-new-trending {
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.discover-more-nfts.screen-20-mobile .explore-new-trending {
+  font-size: 22px;
+  line-height: 35.2px;
+}
+
+.discover-more-nfts.screen-20-desktop .NFT-cards-row {
+  align-self: stretch;
+}
+
+.discover-more-nfts.screen-20-tablet .NFT-cards-row {
+  margin-left: -123px;
+  margin-right: -123px;
+  width: 690px;
+}

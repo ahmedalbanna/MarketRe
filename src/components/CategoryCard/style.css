@@ -1,0 +1,94 @@
+.category-card {
+  align-items: center;
+  background-color: #3b3b3b;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.category-card .photo-icon {
+  align-self: stretch;
+  background-color: #c4c4c4;
+  border-radius: 20px 20px 0px 0px;
+  position: relative;
+}
+
+.category-card .category-icon {
+  -webkit-backdrop-filter: blur(15px) brightness(100%);
+  align-items: center;
+  backdrop-filter: blur(15px) brightness(100%);
+  background-color: #ffffff1a;
+  border-radius: 20px 20px 0px 0px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.category-card .category-name-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  position: relative;
+}
+
+.category-card .category-name {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.category-card.property-1-category-card-small {
+  width: 142px;
+}
+
+.category-card.property-1-category-card {
+  width: 240px;
+}
+
+.category-card.property-1-category-card-small .photo-icon {
+  height: 142px;
+  min-width: 142px;
+}
+
+.category-card.property-1-category-card .photo-icon {
+  height: 240px;
+  min-width: 240px;
+}
+
+.category-card.property-1-category-card-small .category-icon {
+  height: 142px;
+  width: 142px;
+}
+
+.category-card.property-1-category-card .category-icon {
+  height: 240px;
+  width: 240px;
+}
+
+.category-card.property-1-category-card-small .category-name-wrapper {
+  padding: 20px 20px 25px;
+}
+
+.category-card.property-1-category-card .category-name-wrapper {
+  padding: 20px 30px 25px;
+}
+
+.category-card.property-1-category-card-small .category-name {
+  font-size: 16px;
+  line-height: 22.4px;
+}
+
+.category-card.property-1-category-card .category-name {
+  font-size: 22px;
+  line-height: 30.8px;
+}

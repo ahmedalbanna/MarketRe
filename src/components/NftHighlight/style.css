@@ -1,0 +1,458 @@
+.NFT-highlight {
+  align-items: center;
+  background-color: #c4c4c4;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.NFT-highlight .frame-wrapper {
+  align-items: flex-end;
+  align-self: stretch;
+  background: linear-gradient(180deg, rgba(162, 89, 255, 0) 0%, rgb(162, 89, 255) 100%);
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.NFT-highlight .frame-3 {
+  display: flex;
+  position: relative;
+}
+
+.NFT-highlight .NFT-artst-name {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.NFT-highlight .payment-process {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 600;
+  letter-spacing: 0;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .auction-timer {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  align-items: flex-start;
+  backdrop-filter: blur(10px) brightness(100%);
+  background-color: #3b3b3b80;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 30px;
+  position: relative;
+  width: 295px;
+}
+
+.NFT-highlight .check-in-time {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .timer {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.NFT-highlight .hours {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.NFT-highlight .element-8 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 45.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .hours-2 {
+  align-self: stretch;
+  color: #ffffff;
+  flex: 1;
+  font-family: "Space Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .element-9 {
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 39.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.NFT-highlight .minutes {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.NFT-highlight .element-10 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 45.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .minutes-2 {
+  align-self: stretch;
+  color: #ffffff;
+  flex: 1;
+  font-family: "Space Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .element-11 {
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 39.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.NFT-highlight .seconds {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.NFT-highlight .element-12 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 45.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .seconds-2 {
+  align-self: stretch;
+  color: #ffffff;
+  flex: 1;
+  font-family: "Space Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .NFT-artst-name-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  position: relative;
+}
+
+.NFT-highlight .payment-process-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Work Sans", Helvetica;
+  font-size: 38px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 45.6px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.NFT-highlight .auction-timer-2 {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  align-items: flex-start;
+  align-self: stretch;
+  backdrop-filter: blur(10px) brightness(100%);
+  background-color: #3b3b3b80;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: flex-end;
+  padding: 30px;
+  position: relative;
+}
+
+.NFT-highlight .check-in-time-2 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .timer-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 10px;
+  position: relative;
+}
+
+.NFT-highlight .hours-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.NFT-highlight .element-13 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 45.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .hours-4 {
+  align-self: stretch;
+  color: #ffffff;
+  flex: 1;
+  font-family: "Space Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .element-14 {
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 39.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.NFT-highlight .minutes-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.NFT-highlight .element-15 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 45.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .minutes-4 {
+  align-self: stretch;
+  color: #ffffff;
+  flex: 1;
+  font-family: "Space Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .element-16 {
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 39.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.NFT-highlight .seconds-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 5px;
+  position: relative;
+}
+
+.NFT-highlight .element-17 {
+  align-self: stretch;
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 45.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight .seconds-4 {
+  align-self: stretch;
+  color: #ffffff;
+  flex: 1;
+  font-family: "Space Mono", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.NFT-highlight.screen-25-desktop {
+  width: 1440px;
+}
+
+.NFT-highlight.screen-25-tablet {
+  width: 834px;
+}
+
+.NFT-highlight.screen-25-mobile {
+  width: 375px;
+}
+
+.NFT-highlight.screen-25-desktop .frame-wrapper {
+  padding: 360px 195px 60px;
+}
+
+.NFT-highlight.screen-25-tablet .frame-wrapper {
+  padding: 360px 195px 60px;
+}
+
+.NFT-highlight.screen-25-mobile .frame-wrapper {
+  padding: 120px 195px 40px;
+}
+
+.NFT-highlight.screen-25-desktop .frame-3 {
+  align-items: flex-end;
+  width: 1050px;
+}
+
+.NFT-highlight.screen-25-tablet .frame-3 {
+  align-items: flex-end;
+  justify-content: center;
+  margin-left: -113px;
+  margin-right: -113px;
+  width: 670px;
+}
+
+.NFT-highlight.screen-25-mobile .frame-3 {
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: flex-end;
+  margin-left: -165px;
+  margin-right: -165px;
+  width: 315px;
+}
+
+.NFT-highlight.screen-25-desktop .payment-process {
+  font-size: 51px;
+  line-height: 56.1px;
+}
+
+.NFT-highlight.screen-25-tablet .payment-process {
+  font-size: 38px;
+  line-height: 45.6px;
+}
+
+.NFT-highlight.screen-25-mobile .payment-process {
+  font-size: 51px;
+  line-height: 56.1px;
+}

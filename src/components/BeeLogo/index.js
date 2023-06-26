@@ -1,0 +1,1 @@
+export { BeeLogo } from "./BeeLogo";

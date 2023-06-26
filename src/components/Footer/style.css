@@ -1,0 +1,485 @@
+.footer {
+  background-color: #3b3b3b;
+  display: flex;
+  flex-direction: column;
+  padding: 40px 195px;
+  position: relative;
+}
+
+.footer .footer-info {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.footer .NFT-marketplace-info {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.footer .logo-2 {
+  height: 32px;
+  min-width: 241.74px;
+  position: relative;
+}
+
+.footer .BEE-marketplace-2 {
+  height: 20px;
+  left: 42px;
+  position: absolute;
+  top: 6px;
+  width: 200px;
+}
+
+.footer .additional-info-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.footer .bee-marketplace-UI-3 {
+  color: #cccccc;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .community-info {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  position: relative;
+}
+
+.footer .join-our-community {
+  color: #cccccc;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.footer .icons {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .explore {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.footer .explore-2 {
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.footer .pages {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.footer .marketplace {
+  color: #cccccc;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .rankings {
+  color: #cccccc;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .connect-a-wallet {
+  color: #cccccc;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.footer .subscribe {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.footer .join-our-weekly-2 {
+  color: #ffffff;
+  font-family: "Space Mono", Helvetica;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 35.2px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.footer .subscribe-form-info {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.footer .get-exclusive-2 {
+  color: #cccccc;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .get-exclusive-3 {
+  align-self: stretch;
+  color: #cccccc;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.footer .subscribe-widget-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.footer .enter-your-email-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #858584;
+  border-radius: 20px;
+  display: flex;
+  gap: 12px;
+  height: 46px;
+  padding: 16px 20px;
+  position: relative;
+  width: 315px;
+}
+
+.footer .enter-your-email-2 {
+  background-color: transparent;
+  border: 0;
+  color: #2b2b2b;
+  flex: 1;
+  font-family: "Work Sans", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-bottom: -3px;
+  margin-top: -5px;
+  min-width: 275px;
+  padding: 0;
+  position: relative;
+  white-space: nowrap;
+}
+
+.footer .frame-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.footer .divider {
+  align-self: stretch;
+  height: 1px;
+  margin-top: -1px;
+  object-fit: cover;
+  position: relative;
+}
+
+.footer .BEE-market-shipping {
+  align-self: stretch;
+  color: #cccccc;
+  font-family: "Work Sans", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 13.2px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.footer.screen-42-desktop {
+  align-items: flex-start;
+  gap: 49px;
+  width: 1439px;
+}
+
+.footer.screen-42-tablet {
+  align-items: center;
+  gap: 49px;
+  width: 834px;
+}
+
+.footer.screen-42-mobile {
+  align-items: center;
+  gap: 30px;
+  width: 375px;
+}
+
+.footer.screen-42-desktop .footer-info {
+  align-self: stretch;
+  justify-content: space-between;
+}
+
+.footer.screen-42-tablet .footer-info {
+  flex-direction: column;
+  gap: 30px;
+  margin-left: -123px;
+  margin-right: -123px;
+  width: 690px;
+}
+
+.footer.screen-42-mobile .footer-info {
+  flex-direction: column;
+  gap: 30px;
+  margin-left: -165px;
+  margin-right: -165px;
+  width: 315px;
+}
+
+.footer.screen-42-desktop .NFT-marketplace-info {
+  gap: 30px;
+  padding: 0px 84px 0px 0px;
+  width: 327.41px;
+}
+
+.footer.screen-42-tablet .NFT-marketplace-info {
+  align-self: stretch;
+  gap: 20px;
+}
+
+.footer.screen-42-mobile .NFT-marketplace-info {
+  align-self: stretch;
+  gap: 20px;
+}
+
+.footer.screen-42-desktop .additional-info-5 {
+  width: fit-content;
+}
+
+.footer.screen-42-tablet .additional-info-5 {
+  align-self: stretch;
+}
+
+.footer.screen-42-mobile .additional-info-5 {
+  align-self: stretch;
+}
+
+.footer.screen-42-desktop .bee-marketplace-UI-3 {
+  width: 238px;
+}
+
+.footer.screen-42-tablet .bee-marketplace-UI-3 {
+  align-self: stretch;
+  white-space: nowrap;
+}
+
+.footer.screen-42-mobile .bee-marketplace-UI-3 {
+  align-self: stretch;
+}
+
+.footer.screen-42-desktop .community-info {
+  width: fit-content;
+}
+
+.footer.screen-42-tablet .community-info {
+  align-self: stretch;
+}
+
+.footer.screen-42-mobile .community-info {
+  align-self: stretch;
+}
+
+.footer.screen-42-desktop .join-our-community {
+  height: 18px;
+  width: 238px;
+}
+
+.footer.screen-42-tablet .join-our-community {
+  align-self: stretch;
+}
+
+.footer.screen-42-mobile .join-our-community {
+  align-self: stretch;
+}
+
+.footer.screen-42-desktop .explore {
+  gap: 25px;
+  width: 240px;
+}
+
+.footer.screen-42-tablet .explore {
+  align-self: stretch;
+  gap: 20px;
+}
+
+.footer.screen-42-mobile .explore {
+  align-self: stretch;
+  gap: 20px;
+}
+
+.footer.screen-42-desktop .explore-2 {
+  width: fit-content;
+}
+
+.footer.screen-42-tablet .explore-2 {
+  align-self: stretch;
+}
+
+.footer.screen-42-mobile .explore-2 {
+  align-self: stretch;
+}
+
+.footer.screen-42-desktop .pages {
+  width: fit-content;
+}
+
+.footer.screen-42-tablet .pages {
+  align-self: stretch;
+}
+
+.footer.screen-42-mobile .pages {
+  align-self: stretch;
+}
+
+.footer.screen-42-desktop .subscribe {
+  gap: 25px;
+  width: fit-content;
+}
+
+.footer.screen-42-tablet .subscribe {
+  align-self: stretch;
+  gap: 20px;
+}
+
+.footer.screen-42-mobile .subscribe {
+  align-self: stretch;
+  gap: 20px;
+}
+
+.footer.screen-42-desktop .join-our-weekly-2 {
+  width: fit-content;
+}
+
+.footer.screen-42-tablet .join-our-weekly-2 {
+  align-self: stretch;
+}
+
+.footer.screen-42-mobile .join-our-weekly-2 {
+  align-self: stretch;
+}
+
+.footer.screen-42-desktop .subscribe-form-info {
+  width: fit-content;
+}
+
+.footer.screen-42-tablet .subscribe-form-info {
+  align-self: stretch;
+}
+
+.footer.screen-42-mobile .subscribe-form-info {
+  align-self: stretch;
+}
+
+.footer.screen-42-desktop .get-exclusive-2 {
+  width: 330px;
+}
+
+.footer.screen-42-tablet .get-exclusive-2 {
+  align-self: stretch;
+  white-space: nowrap;
+}
+
+.footer.screen-42-desktop .frame-5 {
+  align-self: stretch;
+}
+
+.footer.screen-42-tablet .frame-5 {
+  margin-left: -123px;
+  margin-right: -123px;
+  width: 690px;
+}
+
+.footer.screen-42-mobile .frame-5 {
+  margin-left: -165px;
+  margin-right: -165px;
+  width: 315px;
+}
+
+.footer.screen-42-desktop .divider {
+  min-width: 1049.41px;
+}
+
+.footer.screen-42-tablet .divider {
+  min-width: 690px;
+}
+
+.footer.screen-42-mobile .divider {
+  min-width: 315px;
+}
